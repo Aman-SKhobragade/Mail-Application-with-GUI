@@ -12,7 +12,11 @@ This is a simple mail application with a graphical user interface (GUI) built us
 
 To run the Mail GUI Application , you need the following:<br />
 Python 3.8 or higher Version Python<br />
-packages: Pillow library
+packages: Pillow library<br />
+Stable Internet Connecction
+
+> **Note**
+> The Mail sender's account should be have 2-factor Google Authentication turn ON.
 <br />
 
 ## Screenshots
